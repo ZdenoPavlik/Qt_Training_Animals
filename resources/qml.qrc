@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Animal.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/bear.png</file>
+        <file>images/dog.png</file>
+        <file>images/fox.png</file>
+        <file>images/koala.png</file>
+        <file>images/lion.png</file>
+        <file>images/lynx.png</file>
+        <file>images/owl.png</file>
+    </qresource>
+</RCC>
